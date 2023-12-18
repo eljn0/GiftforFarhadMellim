@@ -13,8 +13,10 @@
 
 # <p align="center"> Live Demo </p>
 ---------------------------------------------------------
-https://eljansmusicplayer.netlify.app/
+https://kwetlorien.netlify.app/
 
-![Снимок экрана (1)](https://user-images.githubusercontent.com/77200703/154422551-152fe0f5-fa9b-4c9c-9bac-ac4222ba8db5.png)
+
+<img width="960" alt="image" src="https://github.com/eljn0/GiftforFarhadMellim/assets/77200703/6f509c91-eace-4000-acb8-b0b42dbfc737">
+
 
 ---------------------------------------------------------
